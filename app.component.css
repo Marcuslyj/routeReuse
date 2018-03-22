@@ -1,0 +1,1 @@
+.wrapper{    display: flex;    flex-direction: row;}.sideNav{    width:100px;    flex: 0;}.view{    flex: 1;    padding-left: 50px;}
